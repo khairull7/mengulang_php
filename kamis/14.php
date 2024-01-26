@@ -27,3 +27,4 @@ foreach ($student as $siswa) {
     echo "Total nilai $nama: $jumlahNilai<br>";
 }
 ?>
+
