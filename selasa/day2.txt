@@ -1,0 +1,30 @@
+1. predikat terhadap hasil ujian diberikan ketika : Mendapatkan Predikat A jika nilai lebih dari 90, mendapatkan predikat b jika nilai lebih dari 75, selain itu mendapatkan predikat c
+2. Waktu tidur yang baik untuk anak usia 6-12 adalah 10jam, untuk usia 12-18 adalah 8-9 jam. untuk usia 18-40 adalah 7-8 jam , apabila seseorang berusia 17 tahun berapa waktu tidur yang baik
+3. Apakah angka 9 termasuk kedalam bilangan negatif , bilangan positif, atau bilangan cacah
+4. Disuatu rumah produksi yang memiliki jam kerja 8 jam, jika pegawai bekerja melebih jam kerja berhak mendapatkan kompensasi berupa Rp 30.000 di jam berikutnya. Jika dani bekerja dari pukul 8 pagi lalu pulang di pukul 10 malam. berapakah kompensasi yang akan di terima dani
+5. Andi lahir di tahun 2004 dan eko lahir 3 tahun sebelum andi dari kedua orang tersebut siapakah yang lahir di tahun kabisat ? apakah andi atau 
+6. Setiap orang memiliki int dan kategori imt nya masing masing
+ berikut kategori imt : 
+ kurang dari 18.5 : berat badan kurang 
+ dari 18.5 sampai kurang dari 22.9 : normal 
+ dari 22.9 sampai kurang dari 24.9 : berat badan lebih 
+ lebih dari sama dengan 25 : obesitas
+ jika beni memiliki berat badan 44 kg dengan tinggi badan 148 cm, termasuk ke dalam kategori apakah beni
+ 7. Menu di rumah makan beni
+ nasi goreng = 15.000, ayam bakar = 20000, Nasi kabuli = 25000, aneka jus = 8000, es teh manis = 3000, es jeruk = 5000
+ rumah makan beni mengadakan program jumat berkah dengan memberikan diskon sebear 5% dihari jumat dan 2% dihari senin. hitunglah harga yang harus dibayar jika dani ingin membeli 2 nasi kebuli, 1 ayam bakar, 2 nasi goreng 
+ (gunakan hari secara otomatis dari hari ini)
+8. Dani ingin membangun rumah disuatu komplek perumahan dengan panjang tanah 13 meter dan lebar 
+    9 meter. Tetapi sebelum membangun rumah, Dani harus memberikan laporan terlebih dahulu tipe 
+    rumah yang ingin dia buat kepada kontraktor bangunan. Dengan luas tanah yang dia punya, masuk
+    ke kategori manakah rumah dani nantinya. 
+        - Tipe 36 : < 90 m2 
+        - Tipe 45 : < 90 - 96 m2 
+        - Tipe 54 : < 96 - 120 m2 
+        - Tipe 60 : < 120 - 150 m2 
+        - Tipe 70 : < 150 m2
+9. 
+10. Mini market Eko menjual berbagai kebutuhan setiap pelanggan yang berbelanja lebih dari Rp 100.000 akan mendapatkan voucher potongan harga sebesar Rp. 10.0000 jika total belanja lebih dari Rp . 150.000 akan mendapatkan voucher Rp. 30.000 dan mendapatkan 1 dus permen kaki
+
+senin-selasa operator & percabangan
+

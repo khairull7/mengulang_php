@@ -1,0 +1,121 @@
+1. Terdapat variabel, dengan isi "Wikrama" ambil huruf terakhir kedua dari string tersebut (hasil: m).
+ hint : substr
+ poin : 5
+2. Tampilkanlah angka 1-10 menggunakan perulangan 
+3. Tampilkanlah angka 10-1 menggunakan perulangan
+4. Munculkan lah tag heading 1-6 html menggunakan perulangan
+5. Nilai variabel A bisa dibagi dengan 4, berapakah nilai variabel tersebut dari rentang 1-30
+6. Berapa kemungkinan bilangan 225 bisa dibagi habis dengan bilangan kelipatan 5 (5-25)
+7. Tampilkanlah data dibawah ini
+<?php
+$data = [
+    'nama' => 'Andi',
+    'rombel' => 'PPLG XI-1',
+    'rayon' => 'Ciawi 4',
+    'jk' => 'L',
+],
+[
+    'nama' => 'Sasa',
+    'rombel' => 'PPLG XI-6',
+    'rayon' => 'Sukasari 1',
+    'jk' => 'P',
+],
+[
+    'nama' => 'Tala',
+    'rombel' => 'PPLG XI-3',
+    'rayon' => 'Cisarua 3',
+    'jk' => 'P',
+],
+[
+    'nama' => 'Beni',
+    'rombel' => 'PPLG XI-2',
+    'rayon' => 'Cicurug 2',
+    'jk' => 'L',
+],
+8. Dari bilangan diatas kelompokan lah menjadi dua kelompok yaitu kelompok pertama untuk nilai kompeten yang lebih dari dan sama dengan 75, dan kelompok dua belum kompeten yang kurang dari 75
+9. Buatlah urutan perkalian 1 * 1 = 1 sampai dengan 3 * 10 = 30
+10. Berikut adalah daftar belanjaan yang Beni beli di Mini Market Eko. Hitunglah berapa yang perlu Beni bayar 
+    <?php
+    $barang = [
+    [
+        'nama_barang' => 'Pasta Gigi',
+        'harga_barang' => '10000',
+        'jumlah_beli' => 1,
+    ],
+    [
+        'nama_barang' => 'Sabun Mandi',
+        'harga_barang' => '5000',
+        'jumlah_beli' => 3,
+    ],
+    [
+        'nama_barang' => 'Aloe Vera Sheet Mask',
+        'harga_barang' => '15000',
+        'jumlah_beli' => 5,
+    ],
+],
+11. Buatlah kelompok dari bilangan dibawah ini, kelompok pertama berisikan bilangan yang terdapat di kedua variabel , dan kelompok kedua bilangan yang hanya terdapat disalah satu variabel saja.
+    $bil1 = [80, 77, 65, 89, 55, 12, 90, 86];
+    $bil2 = [77, 99, 55, 81, 45, 90, 91, 98];
+12. Tampilkanlah data dibawah ini yang hanya memiliki diskon
+    <?php
+    $barang = [
+        [
+            'nama' => 'Ban',
+            'diskon' => '10',
+        ],
+        [
+            'nama' => 'Oli mesin',
+        ],
+        [
+            'nama' => 'Kampas Rem',
+        ],
+        [
+            'nama' => 'Busi',
+            'diskon' => '9',
+        ],
+        [
+            'nama' => 'Akumulator',
+            'diskon' => '7',
+        ],
+    ];
+13. Diberikan data sebagai Berikut
+<?php
+$data = [
+    [
+        'nama' => 'Andi',
+        'tahun' => '2000',
+    ],
+    [
+        'nama' => 'Beni',
+        'tahun' => '2001',
+    ],
+    [
+        'nama' => 'Dani',
+        'tahun' => '2004',
+    ],
+    [
+        'nama' => 'Eko',
+        'tahun' => '2006',
+    ],
+];
+dari data diatas siapakah yang lahir ditahun kabisat
+14. Hitunglah jumlah nilai tiap tiap orang
+<?php
+$student = [
+    [
+        'nama' => 'Andi',
+        'nilai' => '[80, 78, 82, 78, 88],
+    ],
+    [
+        'nama' => 'Beni',
+        'nilai' => '[86, 70, 80, 85, 81],
+    ],
+    [
+        'nama' => 'Dani',
+        'nilai' => '[83, 91, 70, 73, 81],
+    ],
+    [
+        'nama' => 'Eko',
+        'nilai' => '[89, 85, 84, 86, 88],
+    ],
+];
